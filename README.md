@@ -10,5 +10,4 @@
 - React
 - Tailwind CSS
 
-## Live Demo
-(Add your Vercel link here)
+ 
